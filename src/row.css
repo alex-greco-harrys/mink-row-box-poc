@@ -1,0 +1,6 @@
+.row-top-level {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: auto;
+  grid-column-gap: 1em;
+}
